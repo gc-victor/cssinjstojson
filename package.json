@@ -1,0 +1,26 @@
+{
+  "name": "cssinjstojson",
+  "version": "0.1.0",
+  "description": "Converts CSS in JS to JSON",
+  "main": "dist/cssinjstojson.js",
+  "module": "dist/cssinjstojson.esm.js",
+  "umd:main": "dist/cssinjstojson.umd.js",
+  "unpkg": "dist/cssinjstojson.umd.js",
+  "source": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gc-victor/cssinjstojson.git"
+  },
+  "keywords": [
+    "css-in-js",
+    "css-json",
+    "css",
+    "json"
+  ],
+  "author": "Víctor García",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gc-victor/cssinjstojson/issues"
+  },
+  "homepage": "https://github.com/gc-victor/cssinjstojson#readme"
+}
